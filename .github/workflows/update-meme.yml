@@ -1,3 +1,25 @@
+name: Update meme in README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 13 * * *"  # 13:00 UTC daily (09:00 New York)
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
       - name: Run updater
         env:
           URL: "https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=50&raw_json=1"
@@ -21,7 +43,6 @@
                           body = r.read()
                           log("HTTP", r.status, ct)
                           data = body.decode("utf-8", "replace")
-                          # Some 429 pages are HTML, not JSON
                           if not data.strip().startswith("{"):
                               raise ValueError("Non-JSON response head: " + data[:120])
                           return json.loads(data)
@@ -31,26 +52,21 @@
               return None
 
           def first_gallery_image(p):
-              # For gallery posts, pick the first media item (largest available)
               mm = p.get("media_metadata") or {}
-              if not mm: return None
               for k, v in mm.items():
                   if v.get("status") != "valid": continue
-                  # pick the source (largest) if available; else highest 's' variant
-                  if "s" in v and "u" in v["s"]:
-                      u = v["s"]["u"]
-                      return html.unescape(u).replace("&amp;", "&")
-                  if "p" in v and v["p"]:
+                  if v.get("s", {}).get("u"):
+                      return html.unescape(v["s"]["u"]).replace("&amp;", "&")
+                  if v.get("p"):
                       u = v["p"][-1].get("u")
-                      if u:
-                          return html.unescape(u).replace("&amp;", "&")
+                      if u: return html.unescape(u).replace("&amp;", "&")
               return None
 
           def pick_post(data):
               if not data: return None
               for child in data.get("data",{}).get("children",[]):
                   p = child.get("data",{})
-                  if p.get("over_18") or p.get("stickied"):
+                  if p.get("over_18") or p.get("stickied"):  # skip NSFW/stickied
                       continue
                   title = p.get("title","(no title)")
                   permalink = p.get("permalink","#")
@@ -60,38 +76,28 @@
 
                   # 1) Direct image links
                   if link.lower().endswith((".png",".jpg",".jpeg",".gif")):
-                      return {"title": title,
-                              "permalink": f"https://www.reddit.com{permalink}",
-                              "image": link}
+                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": link}
 
-                  # 2) post_hint image (even if extension missing)
-                  if hint == "image":
-                      return {"title": title,
-                              "permalink": f"https://www.reddit.com{permalink}",
-                              "image": link}
+                  # 2) post_hint=image (even if extension missing)
+                  if hint == "image" and link:
+                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": link}
 
                   # 3) Gallery
-                  if p.get("is_gallery") or domain == "reddit.com" and "gallery" in p.get("url",""):
+                  if p.get("is_gallery") or (domain == "reddit.com" and "gallery" in (p.get("url",""))):
                       img = first_gallery_image(p)
                       if img:
-                          return {"title": title,
-                                  "permalink": f"https://www.reddit.com{permalink}",
-                                  "image": img}
+                          return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": img}
 
-                  # 4) Preview (includes video previews and many external links)
+                  # 4) Preview (covers many cases incl. video preview stills)
                   if "preview" in p and p["preview"].get("images"):
                       img = p["preview"]["images"][0]["source"]["url"]
                       img = html.unescape(img).replace("&amp;", "&")
-                      return {"title": title,
-                              "permalink": f"https://www.reddit.com{permalink}",
-                              "image": img}
+                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": img}
 
-                  # 5) Imgur without extension (use thumbnail/preview if available)
+                  # 5) Imgur without extension
                   if "imgur.com" in link:
-                      # append .jpg as a best-effort fallback
-                      return {"title": title,
-                              "permalink": f"https://www.reddit.com{permalink}",
-                              "image": link + ("" if link.lower().endswith(".jpg") else ".jpg")}
+                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}",
+                              "image": link if link.lower().endswith(".jpg") else link + ".jpg"}
 
               return None
 
@@ -145,6 +151,17 @@
               log("Updater crashed:", repr(e))
               log(traceback.format_exc())
 
-          # Always succeed (don’t fail the job for API hiccups)
-          sys.exit(0)
+          sys.exit(0)  # always succeed
           PY
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): auto-update ProgrammerHumor meme"
+            git push
+          else
+            echo "No changes to commit."
+          fi
