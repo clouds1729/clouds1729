@@ -3,8 +3,10 @@ name: Update meme in README
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 13:00 UTC daily (09:00 New York)
-    - cron: "0 13 * * *"
+    - cron: "0 13 * * *"  # 13:00 UTC daily (09:00 New York)
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -19,92 +21,96 @@ jobs:
           python-version: "3.11"
 
       - name: Run updater
+        env:
+          URL: https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=25
+          UA: github.com/lawrence-readme-updater (contact: none)
         run: |
           python - << 'PY'
-          import json, re, urllib.request, sys, html
+          import json, re, urllib.request, sys, html, time, os
 
-          URL = "https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=25"
-          UA  = "github.com/lawrence-readme-updater (contact: none)"
+          URL = os.getenv("URL")
+          UA  = os.getenv("UA")
+          README = "README.md"
 
           def fetch():
-              req = urllib.request.Request(URL, headers={"User-Agent": UA})
-              with urllib.request.urlopen(req, timeout=20) as r:
-                  return json.loads(r.read().decode("utf-8"))
+            for attempt in range(3):
+              try:
+                req = urllib.request.Request(URL, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                  data = r.read()
+                  return json.loads(data.decode("utf-8"))
+              except Exception as e:
+                print(f"[updater] fetch attempt {attempt+1} failed: {e}")
+                time.sleep(2)
+            return None
 
           def pick_post(data):
-              # Prefer clean image posts; fall back to preview if needed
-              for child in data["data"]["children"]:
-                  p = child["data"]
-                  if p.get("over_18"):  # skip NSFW
-                      continue
-                  if p.get("stickied"):
-                      continue
-                  title = p.get("title","(no title)")
-                  permalink = p.get("permalink","#")
-                  url = p.get("url_overridden_by_dest") or p.get("url") or ""
-                  hint = p.get("post_hint","")
-                  # Accept direct image/link-hinted images
-                  if hint == "image" and url.lower().endswith((".png",".jpg",".jpeg",".gif")):
-                      return {
-                          "title": title,
-                          "permalink": f"https://www.reddit.com{permalink}",
-                          "image": url
-                      }
-                  # Try preview images if present
-                  if "preview" in p and p["preview"].get("images"):
-                      img = p["preview"]["images"][0]["source"]["url"]
-                      img = html.unescape(img).replace("&amp;", "&")
-                      return {
-                          "title": title,
-                          "permalink": f"https://www.reddit.com{permalink}",
-                          "image": img
-                      }
-              return None
+            if not data: return None
+            for child in data.get("data",{}).get("children",[]):
+              p = child.get("data",{})
+              if p.get("over_18") or p.get("stickied"):
+                continue
+              title = p.get("title","(no title)")
+              permalink = p.get("permalink","#")
+              url = p.get("url_overridden_by_dest") or p.get("url") or ""
+              hint = p.get("post_hint","")
+              # direct image
+              if hint == "image" and url.lower().endswith((".png",".jpg",".jpeg",".gif")):
+                return {"title": title,
+                        "permalink": f"https://www.reddit.com{permalink}",
+                        "image": url}
+              # preview fallback
+              if "preview" in p and p["preview"].get("images"):
+                img = p["preview"]["images"][0]["source"]["url"]
+                img = html.unescape(img).replace("&amp;", "&")
+                return {"title": title,
+                        "permalink": f"https://www.reddit.com{permalink}",
+                        "image": img}
+            return None
 
           def update_readme(memeblock):
-              path = "README.md"
-              try:
-                  with open(path, "r", encoding="utf-8") as f:
-                      content = f.read()
-              except FileNotFoundError:
-                  print("README.md not found", file=sys.stderr)
-                  sys.exit(1)
+            try:
+              with open(README, "r", encoding="utf-8") as f:
+                content = f.read()
+            except FileNotFoundError:
+              print("[updater] README.md not found; nothing to do")
+              return False
 
-              start = r"<!-- START_MEME -->"
-              end   = r"<!-- END_MEME -->"
-              pattern = re.compile(f"{start}.*?{end}", re.DOTALL)
+            start = "<!-- START_MEME -->"
+            end   = "<!-- END_MEME -->"
+            pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
 
-              new_block = (
-                  f"<!-- START_MEME -->\n"
-                  f"The top voted meme for today is...\n\n"
-                  f"[*{memeblock['title']}*]({memeblock['permalink']})\n\n"
-                  f"![ProgrammerHumor Meme of the Day]({memeblock['image']})\n"
-                  f"<!-- END_MEME -->"
-              )
+            new_block = (
+              f"{start}\n"
+              f"The top voted meme for today is...\n\n"
+              f"[*{memeblock['title']}*]({memeblock['permalink']})\n\n"
+              f"![ProgrammerHumor Meme of the Day]({memeblock['image']})\n"
+              f"{end}"
+            )
 
-              if not pattern.search(content):
-                  print("Markers not found; leaving README unchanged.", file=sys.stderr)
-                  sys.exit(0)
+            if not pattern.search(content):
+              print("[updater] Markers not found; leaving README unchanged.")
+              return False
 
-              updated = pattern.sub(new_block, content)
-              if updated == content:
-                  print("No change.")
-                  sys.exit(0)
+            updated = pattern.sub(new_block, content)
+            if updated == content:
+              print("[updater] No change.")
+              return False
 
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(updated)
-              print("README updated.")
+            with open(README, "w", encoding="utf-8") as f:
+              f.write(updated)
+            print("[updater] README updated.")
+            return True
 
           data = fetch()
-          post = pick_post(data)
-          if not post:
-              # graceful fallback
-              post = {
-                  "title": "Could not fetch a meme today 😅",
-                  "permalink": "https://www.reddit.com/r/ProgrammerHumor/",
-                  "image": "https://http.cat/204"
-              }
-          update_readme(post)
+          post = pick_post(data) or {
+            "title": "Could not fetch a meme today 😅",
+            "permalink": "https://www.reddit.com/r/ProgrammerHumor/",
+            "image": "https://http.cat/204",
+          }
+          changed = update_readme(post)
+          # Always succeed so transient API issues don't mark the job failed
+          sys.exit(0)
           PY
 
       - name: Commit & push if changed
