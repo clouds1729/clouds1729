@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- TODO: replace with your actual links/handles -->
-  <a href="https://www.linkedin.com/in/gka11-c137/">
+  <a href="https://www.linkedin.com/in/gka11-c137/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
 </div>
