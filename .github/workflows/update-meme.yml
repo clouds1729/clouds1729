@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,8 +23,8 @@ jobs:
 
       - name: Run updater
         env:
-          URL: https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=25
-          UA: github.com/lawrence-readme-updater (contact: none)
+          URL: "https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=25"
+          UA: "github.com/lawrence-readme-updater (contact: none)"
         run: |
           python - << 'PY'
           import json, re, urllib.request, sys, html, time, os
@@ -48,18 +49,16 @@ jobs:
             if not data: return None
             for child in data.get("data",{}).get("children",[]):
               p = child.get("data",{})
-              if p.get("over_18") or p.get("stickied"):
+              if p.get("over_18") or p.get("stickied"):  # skip NSFW/stickied
                 continue
               title = p.get("title","(no title)")
               permalink = p.get("permalink","#")
               url = p.get("url_overridden_by_dest") or p.get("url") or ""
               hint = p.get("post_hint","")
-              # direct image
               if hint == "image" and url.lower().endswith((".png",".jpg",".jpeg",".gif")):
                 return {"title": title,
                         "permalink": f"https://www.reddit.com{permalink}",
                         "image": url}
-              # preview fallback
               if "preview" in p and p["preview"].get("images"):
                 img = p["preview"]["images"][0]["source"]["url"]
                 img = html.unescape(img).replace("&amp;", "&")
