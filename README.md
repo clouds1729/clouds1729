@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://clouds.lawrence.dev
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*Loading…*](#)
+[*Could not fetch a meme today 😅*](https://www.reddit.com/r/ProgrammerHumor/)
 
-![ProgrammerHumor Meme of the Day](https://http.cat/102)
+![ProgrammerHumor Meme of the Day](https://http.cat/204)
 <!-- END_MEME -->
