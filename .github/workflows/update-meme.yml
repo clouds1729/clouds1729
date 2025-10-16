@@ -15,144 +15,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: "20"
 
-      - name: Run updater
+      - name: Update README (OAuth)
         env:
-          URL: "https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=50&raw_json=1"
-          UA: "github.com/lawrence-readme-updater (contact: none)"
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
         run: |
-          python - << 'PY'
-          import json, re, urllib.request, urllib.error, sys, html, time, os, traceback
-
-          URL = os.getenv("URL")
-          UA  = os.getenv("UA")
-          README = "README.md"
-
-          def log(*a): print("[updater]", *a)
-
-          def fetch():
-              for attempt in range(3):
-                  try:
-                      req = urllib.request.Request(URL, headers={"User-Agent": UA})
-                      with urllib.request.urlopen(req, timeout=20) as r:
-                          ct = r.headers.get("Content-Type","")
-                          body = r.read()
-                          log("HTTP", r.status, ct)
-                          data = body.decode("utf-8", "replace")
-                          if not data.strip().startswith("{"):
-                              raise ValueError("Non-JSON response head: " + data[:120])
-                          return json.loads(data)
-                  except Exception as e:
-                      log(f"fetch attempt {attempt+1} failed:", repr(e))
-                      time.sleep(2)
-              return None
-
-          def first_gallery_image(p):
-              mm = p.get("media_metadata") or {}
-              for k, v in mm.items():
-                  if v.get("status") != "valid": continue
-                  if v.get("s", {}).get("u"):
-                      return html.unescape(v["s"]["u"]).replace("&amp;", "&")
-                  if v.get("p"):
-                      u = v["p"][-1].get("u")
-                      if u: return html.unescape(u).replace("&amp;", "&")
-              return None
-
-          def pick_post(data):
-              if not data: return None
-              for child in data.get("data",{}).get("children",[]):
-                  p = child.get("data",{})
-                  if p.get("over_18") or p.get("stickied"):  # skip NSFW/stickied
-                      continue
-                  title = p.get("title","(no title)")
-                  permalink = p.get("permalink","#")
-                  link = p.get("url_overridden_by_dest") or p.get("url") or ""
-                  hint = p.get("post_hint","")
-                  domain = p.get("domain","")
-
-                  # 1) Direct image links
-                  if link.lower().endswith((".png",".jpg",".jpeg",".gif")):
-                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": link}
-
-                  # 2) post_hint=image (even if extension missing)
-                  if hint == "image" and link:
-                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": link}
-
-                  # 3) Gallery
-                  if p.get("is_gallery") or (domain == "reddit.com" and "gallery" in (p.get("url",""))):
-                      img = first_gallery_image(p)
-                      if img:
-                          return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": img}
-
-                  # 4) Preview (covers many cases incl. video preview stills)
-                  if "preview" in p and p["preview"].get("images"):
-                      img = p["preview"]["images"][0]["source"]["url"]
-                      img = html.unescape(img).replace("&amp;", "&")
-                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}", "image": img}
-
-                  # 5) Imgur without extension
-                  if "imgur.com" in link:
-                      return {"title": title, "permalink": f"https://www.reddit.com{permalink}",
-                              "image": link if link.lower().endswith(".jpg") else link + ".jpg"}
-
-              return None
-
-          def update_readme(memeblock):
-              try:
-                  with open(README, "r", encoding="utf-8") as f:
-                      content = f.read()
-              except FileNotFoundError:
-                  log("README.md not found; nothing to do.")
-                  return False
-
-              start = "<!-- START_MEME -->"
-              end   = "<!-- END_MEME -->"
-              pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
-
-              new_block = (
-                  f"{start}\n"
-                  f"The top voted meme for today is...\n\n"
-                  f"[*{memeblock['title']}*]({memeblock['permalink']})\n\n"
-                  f"![ProgrammerHumor Meme of the Day]({memeblock['image']})\n"
-                  f"{end}"
-              )
-
-              if not pattern.search(content):
-                  log("Markers not found; leaving README unchanged.")
-                  return False
-
-              updated = pattern.sub(new_block, content)
-              if updated == content:
-                  log("No visible change (same meme).")
-                  return False
-
-              with open(README, "w", encoding="utf-8") as f:
-                  f.write(updated)
-              log("README updated.")
-              return True
-
-          data = fetch()
-          post = pick_post(data)
-          if not post:
-              log("No suitable image found; using fallback.")
-              post = {
-                  "title": "Could not fetch a meme today 😅",
-                  "permalink": "https://www.reddit.com/r/ProgrammerHumor/",
-                  "image": "https://http.cat/204"
-              }
-
-          try:
-              update_readme(post)
-          except Exception as e:
-              log("Updater crashed:", repr(e))
-              log(traceback.format_exc())
-
-          sys.exit(0)  # always succeed
-          PY
+          npm ci || npm i
+          npm run update
 
       - name: Commit & push if changed
         run: |
