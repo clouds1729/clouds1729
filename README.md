@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./img/banner.gif" alt="banner" />
+  <img src="./img/banner.gif" alt="banner" width ="800">
 </div>
+
 
 
 <hr/>
