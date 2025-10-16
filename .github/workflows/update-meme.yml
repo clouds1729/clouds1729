@@ -1,0 +1,120 @@
+name: Update meme in README
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 13:00 UTC daily (09:00 New York)
+    - cron: "0 13 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run updater
+        run: |
+          python - << 'PY'
+          import json, re, urllib.request, sys, html
+
+          URL = "https://www.reddit.com/r/ProgrammerHumor/top.json?t=day&limit=25"
+          UA  = "github.com/lawrence-readme-updater (contact: none)"
+
+          def fetch():
+              req = urllib.request.Request(URL, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return json.loads(r.read().decode("utf-8"))
+
+          def pick_post(data):
+              # Prefer clean image posts; fall back to preview if needed
+              for child in data["data"]["children"]:
+                  p = child["data"]
+                  if p.get("over_18"):  # skip NSFW
+                      continue
+                  if p.get("stickied"):
+                      continue
+                  title = p.get("title","(no title)")
+                  permalink = p.get("permalink","#")
+                  url = p.get("url_overridden_by_dest") or p.get("url") or ""
+                  hint = p.get("post_hint","")
+                  # Accept direct image/link-hinted images
+                  if hint == "image" and url.lower().endswith((".png",".jpg",".jpeg",".gif")):
+                      return {
+                          "title": title,
+                          "permalink": f"https://www.reddit.com{permalink}",
+                          "image": url
+                      }
+                  # Try preview images if present
+                  if "preview" in p and p["preview"].get("images"):
+                      img = p["preview"]["images"][0]["source"]["url"]
+                      img = html.unescape(img).replace("&amp;", "&")
+                      return {
+                          "title": title,
+                          "permalink": f"https://www.reddit.com{permalink}",
+                          "image": img
+                      }
+              return None
+
+          def update_readme(memeblock):
+              path = "README.md"
+              try:
+                  with open(path, "r", encoding="utf-8") as f:
+                      content = f.read()
+              except FileNotFoundError:
+                  print("README.md not found", file=sys.stderr)
+                  sys.exit(1)
+
+              start = r"<!-- START_MEME -->"
+              end   = r"<!-- END_MEME -->"
+              pattern = re.compile(f"{start}.*?{end}", re.DOTALL)
+
+              new_block = (
+                  f"<!-- START_MEME -->\n"
+                  f"The top voted meme for today is...\n\n"
+                  f"[*{memeblock['title']}*]({memeblock['permalink']})\n\n"
+                  f"![ProgrammerHumor Meme of the Day]({memeblock['image']})\n"
+                  f"<!-- END_MEME -->"
+              )
+
+              if not pattern.search(content):
+                  print("Markers not found; leaving README unchanged.", file=sys.stderr)
+                  sys.exit(0)
+
+              updated = pattern.sub(new_block, content)
+              if updated == content:
+                  print("No change.")
+                  sys.exit(0)
+
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(updated)
+              print("README updated.")
+
+          data = fetch()
+          post = pick_post(data)
+          if not post:
+              # graceful fallback
+              post = {
+                  "title": "Could not fetch a meme today 😅",
+                  "permalink": "https://www.reddit.com/r/ProgrammerHumor/",
+                  "image": "https://http.cat/204"
+              }
+          update_readme(post)
+          PY
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): auto-update ProgrammerHumor meme"
+            git push
+          else
+            echo "No changes to commit."
+          fi
