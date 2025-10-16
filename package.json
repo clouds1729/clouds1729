@@ -1,0 +1,10 @@
+{
+  "name": "readme-meme-updater",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Updates README meme section from Reddit via OAuth",
+  "license": "MIT",
+  "scripts": {
+    "update": "node scripts/update-readme.js"
+  }
+}
