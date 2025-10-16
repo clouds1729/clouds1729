@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://clouds.lawrence.dev
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*Could not fetch a meme today 😅*](https://www.reddit.com/r/ProgrammerHumor/)
+[*literalDumb*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7479i/literaldumb/)
 
-![ProgrammerHumor Meme of the Day](https://http.cat/204)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/7ztymc4u58vf1.jpeg)
 <!-- END_MEME -->
