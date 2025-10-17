@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://clouds.lawrence.dev
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*theMythicalManMonthChicken*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7ep7h/themythicalmanmonthchicken/)
+[*hellofPrintWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1o890ok/hellofprintworld/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/m64z9f84ravf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/5p9g219yqhvf1.jpeg)
 <!-- END_MEME -->
