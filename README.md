@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://clouds.lawrence.dev
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*hellofPrintWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1o890ok/hellofprintworld/)
+[*anyOtherChallengeAbby*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9o9k9/anyotherchallengeabby/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/5p9g219yqhvf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ffaov1l4btvf1.jpeg)
 <!-- END_MEME -->
