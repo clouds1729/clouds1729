@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*anyOtherChallengeAbby*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9o9k9/anyotherchallengeabby/)
+[*theNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaze37/thenightmare/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ffaov1l4btvf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/9i0gropvh4wf1.png)
 <!-- END_MEME -->
