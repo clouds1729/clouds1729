@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*theNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaze37/thenightmare/)
+[*nowhereIsSafe*](https://www.reddit.com/r/ProgrammerHumor/comments/1oc0heq/nowhereissafe/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/9i0gropvh4wf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/nlui7iqxfdwf1.jpeg)
 <!-- END_MEME -->
