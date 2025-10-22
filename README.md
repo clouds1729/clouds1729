@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*nowhereIsSafe*](https://www.reddit.com/r/ProgrammerHumor/comments/1oc0heq/nowhereissafe/)
+[*lowTechSecurity*](https://www.reddit.com/r/ProgrammerHumor/comments/1ochrxn/lowtechsecurity/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/nlui7iqxfdwf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/lctdtcgushwf1.jpeg)
 <!-- END_MEME -->
