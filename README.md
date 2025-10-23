@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*lowTechSecurity*](https://www.reddit.com/r/ProgrammerHumor/comments/1ochrxn/lowtechsecurity/)
+[*theyLiedToMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1odbvf7/theyliedtome/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/lctdtcgushwf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/oyl9d7uuoowf1.jpeg)
 <!-- END_MEME -->
