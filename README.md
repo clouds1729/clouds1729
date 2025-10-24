@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*theyLiedToMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1odbvf7/theyliedtome/)
+[*guysYouNeedToAdjustMyPerms*](https://www.reddit.com/r/ProgrammerHumor/comments/1oe5bm7/guysyouneedtoadjustmyperms/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/oyl9d7uuoowf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/0g39cd21kvwf1.gif)
 <!-- END_MEME -->
