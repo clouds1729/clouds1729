@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*guysYouNeedToAdjustMyPerms*](https://www.reddit.com/r/ProgrammerHumor/comments/1oe5bm7/guysyouneedtoadjustmyperms/)
+[*vibeCodingIsTheFutureExceptIfYouAreWritingSoftware*](https://www.reddit.com/r/ProgrammerHumor/comments/1of3l3e/vibecodingisthefutureexceptifyouarewritingsoftware/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/0g39cd21kvwf1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/57ndxdeue3xf1.jpeg)
 <!-- END_MEME -->
