@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*nextLevelstorage*](https://www.reddit.com/r/ProgrammerHumor/comments/1oftim0/nextlevelstorage/)
+[*sorryForSubparPhotoshopImAVibeCoderNotAnEditor*](https://www.reddit.com/r/ProgrammerHumor/comments/1oh02it/sorryforsubparphotoshopimavibecodernotaneditor/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/fea0bsfdu9xf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ltqkg51dpjxf1.png)
 <!-- END_MEME -->
