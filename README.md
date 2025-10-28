@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*sorryForSubparPhotoshopImAVibeCoderNotAnEditor*](https://www.reddit.com/r/ProgrammerHumor/comments/1oh02it/sorryforsubparphotoshopimavibecodernotaneditor/)
+[*iAmTiredBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1ohfboc/iamtiredboss/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ltqkg51dpjxf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/r03f3mjsvnxf1.jpeg)
 <!-- END_MEME -->
