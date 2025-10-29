@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*iAmTiredBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1ohfboc/iamtiredboss/)
+[*relatable*](https://www.reddit.com/r/ProgrammerHumor/comments/1oifbk5/relatable/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/r03f3mjsvnxf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/47s7ep22yvxf1.jpeg)
 <!-- END_MEME -->
