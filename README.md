@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*somethingNewILearnedToday*](https://www.reddit.com/r/ProgrammerHumor/comments/1ojavvb/somethingnewilearnedtoday/)
+[*shotYourselvesInTheFoot*](https://www.reddit.com/r/ProgrammerHumor/comments/1ok7efk/shotyourselvesinthefoot/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/rz5t872363yf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ip22an9sjayf1.jpeg)
 <!-- END_MEME -->
