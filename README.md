@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*shotYourselvesInTheFoot*](https://www.reddit.com/r/ProgrammerHumor/comments/1ok7efk/shotyourselvesinthefoot/)
+[*awsOutageGraphLooksFamiliar*](https://www.reddit.com/r/ProgrammerHumor/comments/1olbv5g/awsoutagegraphlooksfamiliar/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ip22an9sjayf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/1d0vrd6jtjyf1.png)
 <!-- END_MEME -->
