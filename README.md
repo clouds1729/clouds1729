@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*awsOutageGraphLooksFamiliar*](https://www.reddit.com/r/ProgrammerHumor/comments/1olbv5g/awsoutagegraphlooksfamiliar/)
+[*stopUsingFloats*](https://www.reddit.com/r/ProgrammerHumor/comments/1olvw2r/stopusingfloats/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/1d0vrd6jtjyf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/fo73zmh90pyf1.png)
 <!-- END_MEME -->
