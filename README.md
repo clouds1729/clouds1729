@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*stopUsingFloats*](https://www.reddit.com/r/ProgrammerHumor/comments/1olvw2r/stopusingfloats/)
+[*grokPleaseExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1omi02a/grokpleaseexplain/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/fo73zmh90pyf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/gzp767obouyf1.png)
 <!-- END_MEME -->
