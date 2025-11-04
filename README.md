@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*grokPleaseExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1omi02a/grokpleaseexplain/)
+[*enoughIsEnough*](https://www.reddit.com/r/ProgrammerHumor/comments/1onljvv/enoughisenough/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/gzp767obouyf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/x0eaqljug3zf1.jpeg)
 <!-- END_MEME -->
