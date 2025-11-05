@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*enoughIsEnough*](https://www.reddit.com/r/ProgrammerHumor/comments/1onljvv/enoughisenough/)
+[*mojangDiscoversMultithreading*](https://www.reddit.com/r/ProgrammerHumor/comments/1ooep5z/mojangdiscoversmultithreading/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/x0eaqljug3zf1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/gmbndm6a7azf1.png)
 <!-- END_MEME -->
