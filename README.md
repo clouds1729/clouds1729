@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*mojangDiscoversMultithreading*](https://www.reddit.com/r/ProgrammerHumor/comments/1ooep5z/mojangdiscoversmultithreading/)
+[*ubiasedObservation*](https://www.reddit.com/r/ProgrammerHumor/comments/1op71i8/ubiasedobservation/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/gmbndm6a7azf1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ytjogtheqgzf1.jpeg)
 <!-- END_MEME -->
