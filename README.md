@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*confusedVibeCoder*](https://www.reddit.com/r/ProgrammerHumor/comments/1os90i5/confusedvibecoder/)
+[*whoWasThisIdiot*](https://www.reddit.com/r/ProgrammerHumor/comments/1ot4r1d/whowasthisidiot/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/sa3pyf9fj50g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tlh8tmz30d0g1.jpeg)
 <!-- END_MEME -->
