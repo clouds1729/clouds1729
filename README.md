@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whoWasThisIdiot*](https://www.reddit.com/r/ProgrammerHumor/comments/1ot4r1d/whowasthisidiot/)
+[*standProud*](https://www.reddit.com/r/ProgrammerHumor/comments/1ou7da0/standproud/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tlh8tmz30d0g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/7fkud6pl8m0g1.png)
 <!-- END_MEME -->
