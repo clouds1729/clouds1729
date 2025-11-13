@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*thatMakesMeLaughEveryTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1oumvod/thatmakesmelaugheverytime/)
+[*beLikeAProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovhvdh/belikeaprogrammer/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/1ovfxb1g9p0g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/iby0vnew7w0g1.jpeg)
 <!-- END_MEME -->
