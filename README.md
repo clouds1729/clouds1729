@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*beLikeAProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovhvdh/belikeaprogrammer/)
+[*howDidHeWriteTheLinuxKernelWithoutChatgptStarbucksAndGithub*](https://www.reddit.com/r/ProgrammerHumor/comments/1ow4l8l/howdidhewritethelinuxkernelwithoutchatgptstarbucks/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/iby0vnew7w0g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/77fsdaokp11g1.jpeg)
 <!-- END_MEME -->
