@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*juniorVsSeniorDev*](https://www.reddit.com/r/ProgrammerHumor/comments/1oxc1j1/juniorvsseniordev/)
+[*emacs*](https://www.reddit.com/r/ProgrammerHumor/comments/1oxvvuj/emacs/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/6hnsxbn64b1g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/49iotarq5g1g1.png)
 <!-- END_MEME -->
