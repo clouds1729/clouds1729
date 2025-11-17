@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*emacs*](https://www.reddit.com/r/ProgrammerHumor/comments/1oxvvuj/emacs/)
+[*runItAgainMaybeItWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1oyrj94/runitagainmaybeitworks/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/49iotarq5g1g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/zxfu6n9qln1g1.png)
 <!-- END_MEME -->
