@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*runItAgainMaybeItWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1oyrj94/runitagainmaybeitworks/)
+[*guessIllWriteMyOwnThen*](https://www.reddit.com/r/ProgrammerHumor/comments/1ozs70u/guessillwritemyownthen/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/zxfu6n9qln1g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/j7luximgsv1g1.jpeg)
 <!-- END_MEME -->
