@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*someoneMayNotBeThatHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1p0dec7/someonemaynotbethathappy/)
+[*whatDoYouThinkOfMyCv*](https://www.reddit.com/r/ProgrammerHumor/comments/1p17yxj/whatdoyouthinkofmycv/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ysxht0w3012g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/kv4hizg1w72g1.png)
 <!-- END_MEME -->
