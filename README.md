@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*evenMoreExpandedVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1p24o79/evenmoreexpandedversion/)
+[*vibeCEO*](https://www.reddit.com/r/ProgrammerHumor/comments/1p2zyzi/vibeceo/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/dftb5j0haf2g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/rha1sfv2em2g1.png)
 <!-- END_MEME -->
