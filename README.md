@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*inAWhilePointerPile*](https://www.reddit.com/r/ProgrammerHumor/comments/1p3vrdy/inawhilepointerpile/)
+[*sendHimRightToJail*](https://www.reddit.com/r/ProgrammerHumor/comments/1p4vg80/sendhimrighttojail/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/fxra1r8nst2g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vm0vxnc5523g1.png)
 <!-- END_MEME -->
