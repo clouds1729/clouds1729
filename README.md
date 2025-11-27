@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whatIsMutexLock*](https://www.reddit.com/r/ProgrammerHumor/comments/1p6hbkh/whatismutexlock/)
+[*helloDarknessMyOldFriend*](https://www.reddit.com/r/ProgrammerHumor/comments/1p7jwqz/hellodarknessmyoldfriend/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/zi0h7isclf3g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/8fcobm1x4o3g1.jpeg)
 <!-- END_MEME -->
