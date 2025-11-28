@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*helloDarknessMyOldFriend*](https://www.reddit.com/r/ProgrammerHumor/comments/1p7jwqz/hellodarknessmyoldfriend/)
+[*codingIsntTheHardPart*](https://www.reddit.com/r/ProgrammerHumor/comments/1p884h1/codingisntthehardpart/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/8fcobm1x4o3g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/46wz887f5u3g1.png)
 <!-- END_MEME -->
