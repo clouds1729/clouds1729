@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*codingIsntTheHardPart*](https://www.reddit.com/r/ProgrammerHumor/comments/1p884h1/codingisntthehardpart/)
+[*youMeanActuallyProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1p936c0/youmeanactuallyprogramming/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/46wz887f5u3g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/7u3bob4eq14g1.png)
 <!-- END_MEME -->
