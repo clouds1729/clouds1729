@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*teamsEnjoyer*](https://www.reddit.com/r/ProgrammerHumor/comments/1p9sbce/teamsenjoyer/)
+[*jsGivesNightmares*](https://www.reddit.com/r/ProgrammerHumor/comments/1paisov/jsgivesnightmares/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/nyif4srix74g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/kdq0xxvcge4g1.jpeg)
 <!-- END_MEME -->
