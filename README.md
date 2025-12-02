@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*jsGivesNightmares*](https://www.reddit.com/r/ProgrammerHumor/comments/1paisov/jsgivesnightmares/)
+[*areWeInASim*](https://www.reddit.com/r/ProgrammerHumor/comments/1pbu4rn/areweinasim/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/kdq0xxvcge4g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vmu27riqso4g1.png)
 <!-- END_MEME -->
