@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*areWeInASim*](https://www.reddit.com/r/ProgrammerHumor/comments/1pbu4rn/areweinasim/)
+[*youAreAbsolutelyRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1pcz82l/youareabsolutelyright/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vmu27riqso4g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/gpz5v0ssdy4g1.jpeg)
 <!-- END_MEME -->
