@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*incredibleThingsAreHappening*](https://www.reddit.com/r/ProgrammerHumor/comments/1pdvhcb/incrediblethingsarehappening/)
+[*itHappenedAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1peqmfv/ithappenedagain/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qt075th8m55g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/gn7rvme4sc5g1.jpeg)
 <!-- END_MEME -->
