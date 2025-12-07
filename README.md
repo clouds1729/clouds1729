@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*electronAppDevsRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1pew9lt/electronappdevsrightnow/)
+[*trueSeniorEngineersAnswer*](https://www.reddit.com/r/ProgrammerHumor/comments/1pfq8vl/trueseniorengineersanswer/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/yl9j17yt9e5g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/c54f8u6fdl5g1.jpeg)
 <!-- END_MEME -->
