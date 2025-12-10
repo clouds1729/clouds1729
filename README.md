@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*brilliantManouver*](https://www.reddit.com/r/ProgrammerHumor/comments/1phcp5i/brilliantmanouver/)
+[*npmInstall*](https://www.reddit.com/r/ProgrammerHumor/comments/1pihzla/npminstall/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/i3qmxebwhz5g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/83a0orx3l86g1.jpeg)
 <!-- END_MEME -->
