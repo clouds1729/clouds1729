@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*npmInstall*](https://www.reddit.com/r/ProgrammerHumor/comments/1pihzla/npminstall/)
+[*singularityIsNear*](https://www.reddit.com/r/ProgrammerHumor/comments/1pj5pn8/singularityisnear/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/83a0orx3l86g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/g38aqg1hce6g1.jpeg)
 <!-- END_MEME -->
