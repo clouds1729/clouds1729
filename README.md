@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*singularityIsNear*](https://www.reddit.com/r/ProgrammerHumor/comments/1pj5pn8/singularityisnear/)
+[*itWorksOnMyMachineActual*](https://www.reddit.com/r/ProgrammerHumor/comments/1pk7997/itworksonmymachineactual/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/g38aqg1hce6g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/njmecubdrm6g1.png)
 <!-- END_MEME -->
