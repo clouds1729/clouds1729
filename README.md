@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*itWorksOnMyMachineActual*](https://www.reddit.com/r/ProgrammerHumor/comments/1pk7997/itworksonmymachineactual/)
+[*girlsAreSoWeird*](https://www.reddit.com/r/ProgrammerHumor/comments/1pks5pf/girlsaresoweird/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/njmecubdrm6g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vqeix2731s6g1.jpeg)
 <!-- END_MEME -->
