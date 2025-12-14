@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*girlsAreSoWeird*](https://www.reddit.com/r/ProgrammerHumor/comments/1pks5pf/girlsaresoweird/)
+[*whatTheSigma*](https://www.reddit.com/r/ProgrammerHumor/comments/1plx8oz/whatthesigma/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vqeix2731s6g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/1mn16as4n17g1.jpeg)
 <!-- END_MEME -->
