@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whatTheSigma*](https://www.reddit.com/r/ProgrammerHumor/comments/1plx8oz/whatthesigma/)
+[*justLetMeFinish*](https://www.reddit.com/r/ProgrammerHumor/comments/1pmodqv/justletmefinish/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/1mn16as4n17g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/mkr0p4wrd87g1.png)
 <!-- END_MEME -->
