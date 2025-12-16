@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*justLetMeFinish*](https://www.reddit.com/r/ProgrammerHumor/comments/1pmodqv/justletmefinish/)
+[*meanwhileAtDuckDuckGo*](https://www.reddit.com/r/ProgrammerHumor/comments/1pnfu7h/meanwhileatduckduckgo/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/mkr0p4wrd87g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tkv2eif21f7g1.jpeg)
 <!-- END_MEME -->
