@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*meanwhileAtDuckDuckGo*](https://www.reddit.com/r/ProgrammerHumor/comments/1pnfu7h/meanwhileatduckduckgo/)
+[*iStillDontKnowMyOperatorPrecedence*](https://www.reddit.com/r/ProgrammerHumor/comments/1pocqc9/istilldontknowmyoperatorprecedence/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tkv2eif21f7g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/e7es18v3mm7g1.png)
 <!-- END_MEME -->
