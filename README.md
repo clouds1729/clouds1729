@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*that5minMeetingWithADeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1pozmu4/that5minmeetingwithadeveloper/)
+[*meantimeInThe80s*](https://www.reddit.com/r/ProgrammerHumor/comments/1pq0kp6/meantimeinthe80s/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/oq9w0eldas7g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/3y7yntlcq08g1.jpeg)
 <!-- END_MEME -->
