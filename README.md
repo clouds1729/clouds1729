@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*meantimeInThe80s*](https://www.reddit.com/r/ProgrammerHumor/comments/1pq0kp6/meantimeinthe80s/)
+[*weatherAppWentLowLevel*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqoils/weatherappwentlowlevel/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/3y7yntlcq08g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/9zz63nool68g1.jpeg)
 <!-- END_MEME -->
