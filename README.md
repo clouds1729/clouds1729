@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*weatherAppWentLowLevel*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqoils/weatherappwentlowlevel/)
+[*vibeCodedAISlop*](https://www.reddit.com/r/ProgrammerHumor/comments/1prgpe4/vibecodedaislop/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/9zz63nool68g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/upcf7xm2md8g1.jpeg)
 <!-- END_MEME -->
