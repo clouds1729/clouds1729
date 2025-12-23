@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*forReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1psayc0/forreal/)
+[*heTookTheFocusAwayFromMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1pt00br/hetookthefocusawayfromme/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ypqbd6av6l8g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/o3tnvp9ufr8g1.jpeg)
 <!-- END_MEME -->
