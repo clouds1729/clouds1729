@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*itsTheLaw*](https://www.reddit.com/r/ProgrammerHumor/comments/1pu0bs5/itsthelaw/)
+[*okSureGreat*](https://www.reddit.com/r/ProgrammerHumor/comments/1puoxyp/oksuregreat/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/8zojo5jvrz8g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/33rvxr2gz59g1.jpeg)
 <!-- END_MEME -->
