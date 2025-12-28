@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*slopIsBetterActually*](https://www.reddit.com/r/ProgrammerHumor/comments/1pw4s7z/slopisbetteractually/)
+[*whyTFDoYouNeedAPromptForThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1pwzrjv/whytfdoyouneedapromptforthat/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/b4a5e2120k9g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/2hmeez6egr9g1.png)
 <!-- END_MEME -->
