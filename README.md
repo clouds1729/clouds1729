@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whyTFDoYouNeedAPromptForThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1pwzrjv/whytfdoyouneedapromptforthat/)
+[*randomSadStoryOfTheSoftwareDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1pxtmkk/randomsadstoryofthesoftwaredeveloper/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/2hmeez6egr9g1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vn8zm049oy9g1.jpeg)
 <!-- END_MEME -->
