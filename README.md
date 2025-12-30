@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*randomSadStoryOfTheSoftwareDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1pxtmkk/randomsadstoryofthesoftwaredeveloper/)
+[*theFinalBossUserInput*](https://www.reddit.com/r/ProgrammerHumor/comments/1pyp3wy/thefinalbossuserinput/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vn8zm049oy9g1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/0bdh58mpv5ag1.jpeg)
 <!-- END_MEME -->
