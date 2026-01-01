@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*quoteByAbrahamLinkedIn*](https://www.reddit.com/r/ProgrammerHumor/comments/1pzjqd7/quotebyabrahamlinkedin/)
+[*justFuckMyCareerUpBruh*](https://www.reddit.com/r/ProgrammerHumor/comments/1q0ffl7/justfuckmycareerupbruh/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/zwfvysdhrcag1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/izpmz59e4kag1.jpeg)
 <!-- END_MEME -->
