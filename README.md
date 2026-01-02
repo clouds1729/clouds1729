@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*justFuckMyCareerUpBruh*](https://www.reddit.com/r/ProgrammerHumor/comments/1q0ffl7/justfuckmycareerupbruh/)
+[*geminiWantsMeToNukeMyRepo*](https://www.reddit.com/r/ProgrammerHumor/comments/1q18yvo/geminiwantsmetonukemyrepo/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/izpmz59e4kag1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/h0542tnbrrag1.png)
 <!-- END_MEME -->
