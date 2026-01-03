@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*geminiWantsMeToNukeMyRepo*](https://www.reddit.com/r/ProgrammerHumor/comments/1q18yvo/geminiwantsmetonukemyrepo/)
+[*machineLearningJourney*](https://www.reddit.com/r/ProgrammerHumor/comments/1q245x6/machinelearningjourney/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/h0542tnbrrag1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/0rw7ye08xyag1.png)
 <!-- END_MEME -->
