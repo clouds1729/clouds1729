@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*machineLearningJourney*](https://www.reddit.com/r/ProgrammerHumor/comments/1q245x6/machinelearningjourney/)
+[*bloatedTicket*](https://www.reddit.com/r/ProgrammerHumor/comments/1q371ih/bloatedticket/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/0rw7ye08xyag1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tgkj47oye7bg1.png)
 <!-- END_MEME -->
