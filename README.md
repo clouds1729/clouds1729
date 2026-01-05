@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*bloatedTicket*](https://www.reddit.com/r/ProgrammerHumor/comments/1q371ih/bloatedticket/)
+[*itIsntOverflowingAnymoreOnStackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1q3v6f3/itisntoverflowinganymoreonstackoverflow/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tgkj47oye7bg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/pg8yaa6g6dbg1.jpeg)
 <!-- END_MEME -->
