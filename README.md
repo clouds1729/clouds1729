@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*itIsntOverflowingAnymoreOnStackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1q3v6f3/itisntoverflowinganymoreonstackoverflow/)
+[*webDeveloperSendsClientToCodeJail*](https://www.reddit.com/r/ProgrammerHumor/comments/1q4u2e4/webdevelopersendsclienttocodejail/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/pg8yaa6g6dbg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/sa3cnlkrskbg1.jpeg)
 <!-- END_MEME -->
