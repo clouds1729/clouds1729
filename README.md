@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*webDeveloperSendsClientToCodeJail*](https://www.reddit.com/r/ProgrammerHumor/comments/1q4u2e4/webdevelopersendsclienttocodejail/)
+[*technologiesOfYore*](https://www.reddit.com/r/ProgrammerHumor/comments/1q5k8fw/technologiesofyore/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/sa3cnlkrskbg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/qbsdpqggpqbg1.jpeg)
 <!-- END_MEME -->
