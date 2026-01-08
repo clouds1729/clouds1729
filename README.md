@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*technologiesOfYore*](https://www.reddit.com/r/ProgrammerHumor/comments/1q5k8fw/technologiesofyore/)
+[*happyNew*](https://www.reddit.com/r/ProgrammerHumor/comments/1q6o6fc/happynew/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qbsdpqggpqbg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/9iiftj6f5zbg1.png)
 <!-- END_MEME -->
