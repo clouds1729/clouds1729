@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*happyNew*](https://www.reddit.com/r/ProgrammerHumor/comments/1q6o6fc/happynew/)
+[*enronArchitecture*](https://www.reddit.com/r/ProgrammerHumor/comments/1q7n253/enronarchitecture/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/9iiftj6f5zbg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/4oi0smovq6cg1.jpeg)
 <!-- END_MEME -->
