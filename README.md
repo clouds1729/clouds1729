@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*trainedTooHardOnStackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1qa60ga/trainedtoohardonstackoverflow/)
+[*byeByeWindowsLinux*](https://www.reddit.com/r/ProgrammerHumor/comments/1qb8y5u/byebyewindowslinux/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/2hoo6y94ercg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/a2pnhmf5szcg1.png)
 <!-- END_MEME -->
