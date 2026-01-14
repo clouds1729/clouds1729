@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*byeByeWindowsLinux*](https://www.reddit.com/r/ProgrammerHumor/comments/1qb8y5u/byebyewindowslinux/)
+[*itAllegedlyGivesYouHairyPalms*](https://www.reddit.com/r/ProgrammerHumor/comments/1qc2mea/itallegedlygivesyouhairypalms/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/a2pnhmf5szcg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/a6r5878jg6dg1.jpeg)
 <!-- END_MEME -->
