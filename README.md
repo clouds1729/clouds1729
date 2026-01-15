@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*itAllegedlyGivesYouHairyPalms*](https://www.reddit.com/r/ProgrammerHumor/comments/1qc2mea/itallegedlygivesyouhairypalms/)
+[*easyExplanationOfPointers*](https://www.reddit.com/r/ProgrammerHumor/comments/1qcvjd1/easyexplanationofpointers/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/a6r5878jg6dg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/qbtqwuc51ddg1.jpeg)
 <!-- END_MEME -->
