@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*easyExplanationOfPointers*](https://www.reddit.com/r/ProgrammerHumor/comments/1qcvjd1/easyexplanationofpointers/)
+[*iHateCurrentJobMarket*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdnrov/ihatecurrentjobmarket/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qbtqwuc51ddg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/q8oygafifjdg1.gif)
 <!-- END_MEME -->
