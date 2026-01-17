@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*iHateCurrentJobMarket*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdnrov/ihatecurrentjobmarket/)
+[*vibeAssembly*](https://www.reddit.com/r/ProgrammerHumor/comments/1qeoyla/vibeassembly/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/q8oygafifjdg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/fejc43klerdg1.jpeg)
 <!-- END_MEME -->
