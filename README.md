@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*vibeAssembly*](https://www.reddit.com/r/ProgrammerHumor/comments/1qeoyla/vibeassembly/)
+[*whenSomeoneSharesASocialMediaLink*](https://www.reddit.com/r/ProgrammerHumor/comments/1qfi2tp/whensomeonesharesasocialmedialink/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/fejc43klerdg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/6xma0aozuxdg1.jpeg)
 <!-- END_MEME -->
