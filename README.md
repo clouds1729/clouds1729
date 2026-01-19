@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whenSomeoneSharesASocialMediaLink*](https://www.reddit.com/r/ProgrammerHumor/comments/1qfi2tp/whensomeonesharesasocialmedialink/)
+[*isAnyoneSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgo3lg/isanyonesurprised/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/6xma0aozuxdg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tljyoen227eg1.png)
 <!-- END_MEME -->
