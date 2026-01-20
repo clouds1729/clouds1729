@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*isAnyoneSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgo3lg/isanyonesurprised/)
+[*replaceGithub*](https://www.reddit.com/r/ProgrammerHumor/comments/1qhwdry/replacegithub/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tljyoen227eg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/kwzmej481heg1.jpeg)
 <!-- END_MEME -->
