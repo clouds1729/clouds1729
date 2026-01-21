@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*replaceGithub*](https://www.reddit.com/r/ProgrammerHumor/comments/1qhwdry/replacegithub/)
+[*topProgrammingDance*](https://www.reddit.com/r/ProgrammerHumor/comments/1qitsbq/topprogrammingdance/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/kwzmej481heg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/pqum9sqpcoeg1.jpeg)
 <!-- END_MEME -->
