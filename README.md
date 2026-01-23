@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*intuitiveUserInterface*](https://www.reddit.com/r/ProgrammerHumor/comments/1qj26tj/intuitiveuserinterface/)
+[*maybeNowICanGetSomeWorkDoneRightAfterThisMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1qk59gx/maybenowicangetsomeworkdonerightafterthismeme/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/q21qny389qeg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/xk4a6nrtjyeg1.jpeg)
 <!-- END_MEME -->
