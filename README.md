@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*maybeNowICanGetSomeWorkDoneRightAfterThisMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1qk59gx/maybenowicangetsomeworkdonerightafterthismeme/)
+[*interestingProblemsBringManagementHeadaches*](https://www.reddit.com/r/ProgrammerHumor/comments/1ql4njg/interestingproblemsbringmanagementheadaches/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/xk4a6nrtjyeg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/l1753znia6fg1.jpeg)
 <!-- END_MEME -->
