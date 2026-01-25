@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*interestingProblemsBringManagementHeadaches*](https://www.reddit.com/r/ProgrammerHumor/comments/1ql4njg/interestingproblemsbringmanagementheadaches/)
+[*sendEmailMethodAsAFramework*](https://www.reddit.com/r/ProgrammerHumor/comments/1qmbnnq/sendemailmethodasaframework/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/l1753znia6fg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/hss81z6gxffg1.jpeg)
 <!-- END_MEME -->
