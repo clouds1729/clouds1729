@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*sendEmailMethodAsAFramework*](https://www.reddit.com/r/ProgrammerHumor/comments/1qmbnnq/sendemailmethodasaframework/)
+[*backInMyDaysWeUsedEmacs*](https://www.reddit.com/r/ProgrammerHumor/comments/1qn9u46/backinmydaysweusedemacs/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/hss81z6gxffg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/w5rdel0lfnfg1.gif)
 <!-- END_MEME -->
