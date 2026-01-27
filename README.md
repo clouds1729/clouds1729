@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*backInMyDaysWeUsedEmacs*](https://www.reddit.com/r/ProgrammerHumor/comments/1qn9u46/backinmydaysweusedemacs/)
+[*clickClackClickClack*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnrc7z/clickclackclickclack/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/w5rdel0lfnfg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/scp8cvui3rfg1.jpeg)
 <!-- END_MEME -->
