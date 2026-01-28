@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*clickClackClickClack*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnrc7z/clickclackclickclack/)
+[*vibeCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1qp3rx6/vibecoding/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/scp8cvui3rfg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/2uql18eeb1gg1.png)
 <!-- END_MEME -->
