@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*vibeCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1qp3rx6/vibecoding/)
+[*dockerDocker*](https://www.reddit.com/r/ProgrammerHumor/comments/1qq0g16/dockerdocker/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/2uql18eeb1gg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/div2s5wka8gg1.jpeg)
 <!-- END_MEME -->
