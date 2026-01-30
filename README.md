@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*dockerDocker*](https://www.reddit.com/r/ProgrammerHumor/comments/1qq0g16/dockerdocker/)
+[*operatorOverloadingIsFun*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqhl8h/operatoroverloadingisfun/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/div2s5wka8gg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/y0vdai5v5cgg1.jpeg)
 <!-- END_MEME -->
