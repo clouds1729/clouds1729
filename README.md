@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*fullPotential*](https://www.reddit.com/r/ProgrammerHumor/comments/1qsa9f2/fullpotential/)
+[*funWithFlags*](https://www.reddit.com/r/ProgrammerHumor/comments/1qtgt8m/funwithflags/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/g0kr27h6bqgg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/y5e9rliiezgg1.jpeg)
 <!-- END_MEME -->
