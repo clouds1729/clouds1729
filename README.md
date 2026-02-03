@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*funWithFlags*](https://www.reddit.com/r/ProgrammerHumor/comments/1qtgt8m/funwithflags/)
+[*beProudOfYourSpaghettiCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1quf7eu/beproudofyourspaghetticode/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/y5e9rliiezgg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/j0evljywt6hg1.jpeg)
 <!-- END_MEME -->
