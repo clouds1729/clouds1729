@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*beProudOfYourSpaghettiCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1quf7eu/beproudofyourspaghetticode/)
+[*houseIsArchived*](https://www.reddit.com/r/ProgrammerHumor/comments/1qv8qz0/houseisarchived/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/j0evljywt6hg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/9owpra56cdhg1.jpeg)
 <!-- END_MEME -->
