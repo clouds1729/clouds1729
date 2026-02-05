@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*houseIsArchived*](https://www.reddit.com/r/ProgrammerHumor/comments/1qv8qz0/houseisarchived/)
+[*confidentialInformation*](https://www.reddit.com/r/ProgrammerHumor/comments/1qvxfvb/confidentialinformation/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/9owpra56cdhg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/quwxp53bzihg1.jpeg)
 <!-- END_MEME -->
