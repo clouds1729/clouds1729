@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*confidentialInformation*](https://www.reddit.com/r/ProgrammerHumor/comments/1qvxfvb/confidentialinformation/)
+[*houseStableVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1qx759f/housestableversion/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/quwxp53bzihg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/zon3n1ebrshg1.jpeg)
 <!-- END_MEME -->
