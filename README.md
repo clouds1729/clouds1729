@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*houseStableVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1qx759f/housestableversion/)
+[*theOddlySpecificDocumentationlessMagicNumber*](https://www.reddit.com/r/ProgrammerHumor/comments/1qxp7cb/theoddlyspecificdocumentationlessmagicnumber/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/zon3n1ebrshg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/m966aw6o0xhg1.jpeg)
 <!-- END_MEME -->
