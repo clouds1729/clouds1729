@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*theOddlySpecificDocumentationlessMagicNumber*](https://www.reddit.com/r/ProgrammerHumor/comments/1qxp7cb/theoddlyspecificdocumentationlessmagicnumber/)
+[*sameTutorialDifferentRealities*](https://www.reddit.com/r/ProgrammerHumor/comments/1qyfaq4/sametutorialdifferentrealities/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/m966aw6o0xhg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/r0q2vhbj23ig1.jpeg)
 <!-- END_MEME -->
