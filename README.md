@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*sameTutorialDifferentRealities*](https://www.reddit.com/r/ProgrammerHumor/comments/1qyfaq4/sametutorialdifferentrealities/)
+[*disApPointEdYETagain*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzhy94/disappointedyetagain/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/r0q2vhbj23ig1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/brnndjuzlbig1.jpeg)
 <!-- END_MEME -->
