@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*disApPointEdYETagain*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzhy94/disappointedyetagain/)
+[*hopingNobodyWillHaveToDebugThisLater*](https://www.reddit.com/r/ProgrammerHumor/comments/1r0hbi0/hopingnobodywillhavetodebugthislater/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/brnndjuzlbig1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/fys1ev0nejig1.gif)
 <!-- END_MEME -->
