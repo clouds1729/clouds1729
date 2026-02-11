@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*hopingNobodyWillHaveToDebugThisLater*](https://www.reddit.com/r/ProgrammerHumor/comments/1r0hbi0/hopingnobodywillhavetodebugthislater/)
+[*thereAreWrongChoices*](https://www.reddit.com/r/ProgrammerHumor/comments/1r18uxf/therearewrongchoices/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/fys1ev0nejig1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/4tvrm21pnpig1.jpeg)
 <!-- END_MEME -->
