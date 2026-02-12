@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*thereAreWrongChoices*](https://www.reddit.com/r/ProgrammerHumor/comments/1r18uxf/therearewrongchoices/)
+[*haveYouConsideredRewritingThisMemeInRust*](https://www.reddit.com/r/ProgrammerHumor/comments/1r21xdj/haveyouconsideredrewritingthismemeinrust/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/4tvrm21pnpig1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/yfsycike6wig1.png)
 <!-- END_MEME -->
