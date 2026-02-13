@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*haveYouConsideredRewritingThisMemeInRust*](https://www.reddit.com/r/ProgrammerHumor/comments/1r21xdj/haveyouconsideredrewritingthismemeinrust/)
+[*muskIsTheJokeHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1r2xerz/muskisthejokehere/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/yfsycike6wig1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/9c002w8s73jg1.jpeg)
 <!-- END_MEME -->
