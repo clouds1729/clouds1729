@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*help*](https://www.reddit.com/r/ProgrammerHumor/comments/1r3qvoc/help/)
+[*hasNoClueWhatBindingsAre*](https://www.reddit.com/r/ProgrammerHumor/comments/1r4qmqr/hasnocluewhatbindingsare/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/m82ckq68x9jg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/araldyj2xhjg1.png)
 <!-- END_MEME -->
