@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*everythingIsAppNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1r5hev2/everythingisappnow/)
+[*raceCondition*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6e2eu/racecondition/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tq205zrrfojg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/1rwbg7m6uvjg1.png)
 <!-- END_MEME -->
