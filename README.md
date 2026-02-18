@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*raceCondition*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6e2eu/racecondition/)
+[*ogDevelopers*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7wvtr/ogdevelopers/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/1rwbg7m6uvjg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/qh8ka9pdk7kg1.jpeg)
 <!-- END_MEME -->
