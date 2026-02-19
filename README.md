@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*ogDevelopers*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7wvtr/ogdevelopers/)
+[*innitMate*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8a3n8/innitmate/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qh8ka9pdk7kg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/o88vat6jkakg1.jpeg)
 <!-- END_MEME -->
