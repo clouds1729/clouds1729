@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*innitMate*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8a3n8/innitmate/)
+[*justWasteAllTheWaterWhyNot*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9apip/justwasteallthewaterwhynot/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/o88vat6jkakg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.imgur.com/9KLnnFZ.png)
 <!-- END_MEME -->
