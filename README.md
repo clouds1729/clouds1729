@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*justWasteAllTheWaterWhyNot*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9apip/justwasteallthewaterwhynot/)
+[*toyStory5TrailerLol*](https://www.reddit.com/r/ProgrammerHumor/comments/1raae0i/toystory5trailerlol/)
 
-![ProgrammerHumor Meme of the Day](https://i.imgur.com/9KLnnFZ.png)
+![ProgrammerHumor Meme of the Day](https://preview.redd.it/1zz9s77ccqkg1.png?width=799&format=png&auto=webp&s=0ff1c038678cd4f7dd4a2e591d09f684bae539a4)
 <!-- END_MEME -->
