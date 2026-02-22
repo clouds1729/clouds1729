@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*toyStory5TrailerLol*](https://www.reddit.com/r/ProgrammerHumor/comments/1raae0i/toystory5trailerlol/)
+[*oopiseSaidTheCodingAgent*](https://www.reddit.com/r/ProgrammerHumor/comments/1rath4y/oopisesaidthecodingagent/)
 
-![ProgrammerHumor Meme of the Day](https://preview.redd.it/1zz9s77ccqkg1.png?width=799&format=png&auto=webp&s=0ff1c038678cd4f7dd4a2e591d09f684bae539a4)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/0vj3vbix5vkg1.jpeg)
 <!-- END_MEME -->
