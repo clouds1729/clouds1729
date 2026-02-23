@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*oopiseSaidTheCodingAgent*](https://www.reddit.com/r/ProgrammerHumor/comments/1rath4y/oopisesaidthecodingagent/)
+[*brevityIsTheSoulOfWit*](https://www.reddit.com/r/ProgrammerHumor/comments/1rbu3cs/brevityisthesoulofwit/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/0vj3vbix5vkg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/1geon4jke3lg1.png)
 <!-- END_MEME -->
