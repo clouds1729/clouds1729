@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*brevityIsTheSoulOfWit*](https://www.reddit.com/r/ProgrammerHumor/comments/1rbu3cs/brevityisthesoulofwit/)
+[*codingBootcampIn2026*](https://www.reddit.com/r/ProgrammerHumor/comments/1rcu8vt/codingbootcampin2026/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/1geon4jke3lg1.png)
+![ProgrammerHumor Meme of the Day](https://preview.redd.it/vc6ec58c9blg1.jpg?width=1290&format=pjpg&auto=webp&s=ffa65e527a1dee1219bea115b47c05c6995ffbb6)
 <!-- END_MEME -->
