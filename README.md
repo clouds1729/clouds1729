@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*onlyOnLinkedin*](https://www.reddit.com/r/ProgrammerHumor/comments/1rdijv4/onlyonlinkedin/)
+[*seniorDevRunningOnPureVibe*](https://www.reddit.com/r/ProgrammerHumor/comments/1rf0jf1/seniordevrunningonpurevibe/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/e5iebcu9jglg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tqv87l3snrlg1.gif)
 <!-- END_MEME -->
