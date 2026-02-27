@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*seniorDevRunningOnPureVibe*](https://www.reddit.com/r/ProgrammerHumor/comments/1rf0jf1/seniordevrunningonpurevibe/)
+[*freeAppIdea*](https://www.reddit.com/r/ProgrammerHumor/comments/1rg0wj0/freeappidea/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/tqv87l3snrlg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/lrzs1krnwzlg1.jpeg)
 <!-- END_MEME -->
