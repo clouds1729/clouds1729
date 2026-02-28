@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*freeAppIdea*](https://www.reddit.com/r/ProgrammerHumor/comments/1rg0wj0/freeappidea/)
+[*anotherBellCurve*](https://www.reddit.com/r/ProgrammerHumor/comments/1rgq8yx/anotherbellcurve/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/lrzs1krnwzlg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/rc76p9hf95mg1.png)
 <!-- END_MEME -->
