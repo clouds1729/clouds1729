@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*justSufferingIsJS*](https://www.reddit.com/r/ProgrammerHumor/comments/1rh6nra/justsufferingisjs/)
+[*walletLeftChat*](https://www.reddit.com/r/ProgrammerHumor/comments/1ri49va/walletleftchat/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/a3eeyno1g9mg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/3szcc7yr4hmg1.jpeg)
 <!-- END_MEME -->
