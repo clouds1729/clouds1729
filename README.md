@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*walletLeftChat*](https://www.reddit.com/r/ProgrammerHumor/comments/1ri49va/walletleftchat/)
+[*successfullyOptimisedTheStartupTimeBy30Seconds*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjj61e/successfullyoptimisedthestartuptimeby30seconds/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/3szcc7yr4hmg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ixthtur8asmg1.png)
 <!-- END_MEME -->
