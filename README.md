@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*successfullyOptimisedTheStartupTimeBy30Seconds*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjj61e/successfullyoptimisedthestartuptimeby30seconds/)
+[*weWillBeLaunchingSoon*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjsy56/wewillbelaunchingsoon/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ixthtur8asmg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/dbgl1pawqumg1.jpeg)
 <!-- END_MEME -->
