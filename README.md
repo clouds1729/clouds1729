@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*weWillBeLaunchingSoon*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjsy56/wewillbelaunchingsoon/)
+[*status403Forbidden*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkx7ok/status403forbidden/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/dbgl1pawqumg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/tffig78fc3ng1.png)
 <!-- END_MEME -->
