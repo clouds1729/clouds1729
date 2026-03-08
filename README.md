@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*keepOnBuddyYouMightGetIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1rmou2r/keeponbuddyyoumightgetit/)
+[*vibeCoderSpotted*](https://www.reddit.com/r/ProgrammerHumor/comments/1ro0o21/vibecoderspotted/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/z145u313ghng1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ax70f2bnjsng1.png)
 <!-- END_MEME -->
