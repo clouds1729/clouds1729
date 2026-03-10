@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*programmingInterviews*](https://www.reddit.com/r/ProgrammerHumor/comments/1ro7b77/programminginterviews/)
+[*thatsSomeOtherDevsProblem*](https://www.reddit.com/r/ProgrammerHumor/comments/1rp2jsh/thatssomeotherdevsproblem/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/eozrbh568ung1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/a8p21ypta1og1.jpeg)
 <!-- END_MEME -->
