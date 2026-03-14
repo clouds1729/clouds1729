@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*top5ThingsThatNeverHappened*](https://www.reddit.com/r/ProgrammerHumor/comments/1rrw9k2/top5thingsthatneverhappened/)
+[*howItGoes*](https://www.reddit.com/r/ProgrammerHumor/comments/1rtbimf/howitgoes/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/0egwl2g4anog1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/2r5zqeny9yog1.jpeg)
 <!-- END_MEME -->
