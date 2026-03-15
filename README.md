@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*howItGoes*](https://www.reddit.com/r/ProgrammerHumor/comments/1rtbimf/howitgoes/)
+[*itsJustThatEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1ruc9d0/itsjustthateasy/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/2r5zqeny9yog1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/qnyvvuzw77pg1.png)
 <!-- END_MEME -->
