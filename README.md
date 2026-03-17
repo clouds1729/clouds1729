@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*doesHaveTheSameRingToIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1rv3ky5/doeshavethesameringtoit/)
+[*userRejectsCopilotUpdate*](https://www.reddit.com/r/ProgrammerHumor/comments/1rvfhrs/userrejectscopilotupdate/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/0mb6dbda8dpg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/t3oyh419wfpg1.jpeg)
 <!-- END_MEME -->
