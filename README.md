@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*bestEngineer*](https://www.reddit.com/r/ProgrammerHumor/comments/1rwcetd/bestengineer/)
+[*trueAF*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxulc2/trueaf/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/kwkdqefvzmpg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/hmxwxlfcnypg1.png)
 <!-- END_MEME -->
