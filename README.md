@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*trueAF*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxulc2/trueaf/)
+[*itWasBasicallyMergeSort*](https://www.reddit.com/r/ProgrammerHumor/comments/1ry4if7/itwasbasicallymergesort/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/hmxwxlfcnypg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/td5he7mfz0qg1.jpeg)
 <!-- END_MEME -->
