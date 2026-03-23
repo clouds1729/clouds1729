@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*agentsBeforeAIAgentWasAThing*](https://www.reddit.com/r/ProgrammerHumor/comments/1rzw54v/agentsbeforeaiagentwasathing/)
+[*newSortingAlgoJustDropped*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1b53p/newsortingalgojustdropped/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/f229fbxiffqg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/8o05sie39rqg1.jpeg)
 <!-- END_MEME -->
