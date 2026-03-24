@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*newSortingAlgoJustDropped*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1b53p/newsortingalgojustdropped/)
+[*pullRequestReviewRequestPagliacci*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1ihy4/pullrequestreviewrequestpagliacci/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/8o05sie39rqg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ovy2vfqd2tqg1.png)
 <!-- END_MEME -->
