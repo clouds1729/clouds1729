@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*pullRequestReviewRequestPagliacci*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1ihy4/pullrequestreviewrequestpagliacci/)
+[*whosGonnaTellHim*](https://www.reddit.com/r/ProgrammerHumor/comments/1s32l58/whosgonnatellhim/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ovy2vfqd2tqg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ejxdmk02t4rg1.jpeg)
 <!-- END_MEME -->
