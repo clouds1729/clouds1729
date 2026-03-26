@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whosGonnaTellHim*](https://www.reddit.com/r/ProgrammerHumor/comments/1s32l58/whosgonnatellhim/)
+[*cuckCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1s42kbr/cuckcoding/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ejxdmk02t4rg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/kb6afstgxcrg1.png)
 <!-- END_MEME -->
