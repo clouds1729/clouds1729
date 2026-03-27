@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*cuckCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1s42kbr/cuckcoding/)
+[*ohNoNoNoNoNO*](https://www.reddit.com/r/ProgrammerHumor/comments/1s4gumv/ohnonononono/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/kb6afstgxcrg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/31lxakn2vfrg1.jpeg)
 <!-- END_MEME -->
