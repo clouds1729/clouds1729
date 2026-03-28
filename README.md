@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*ohNoNoNoNoNO*](https://www.reddit.com/r/ProgrammerHumor/comments/1s4gumv/ohnonononono/)
+[*whoWouldWin*](https://www.reddit.com/r/ProgrammerHumor/comments/1s5tq2j/whowouldwin/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/31lxakn2vfrg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/jfb7hbnnkqrg1.jpeg)
 <!-- END_MEME -->
