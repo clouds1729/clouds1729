@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*codersChoice*](https://www.reddit.com/r/ProgrammerHumor/comments/1s64y9d/coderschoice/)
+[*bugFixedIn5MinutesJiraUpdatedIn3Hours*](https://www.reddit.com/r/ProgrammerHumor/comments/1s77a34/bugfixedin5minutesjiraupdatedin3hours/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/u0s2im1ybtrg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/6xbzdrb9w1sg1.png)
 <!-- END_MEME -->
