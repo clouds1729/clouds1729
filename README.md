@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*vibeCodingFinalBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1s7vzoc/vibecodingfinalboss/)
+[*charityAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1s98xr2/charityasaservice/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ohn45z1oo7sg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/q2sip2owxhsg1.png)
 <!-- END_MEME -->
