@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*charityAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1s98xr2/charityasaservice/)
+[*aiCompaniesRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1s9s9q5/aicompaniesrightnow/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/q2sip2owxhsg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/zj2oswtgcmsg1.jpeg)
 <!-- END_MEME -->
