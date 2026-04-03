@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*aiCompaniesRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1s9s9q5/aicompaniesrightnow/)
+[*alphaVersionSoStillFullOfBugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1sav7r4/alphaversionsostillfullofbugs/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/zj2oswtgcmsg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/4x0gx64ynusg1.jpeg)
 <!-- END_MEME -->
