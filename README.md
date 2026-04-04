@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*alphaVersionSoStillFullOfBugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1sav7r4/alphaversionsostillfullofbugs/)
+[*whatIsTheName*](https://www.reddit.com/r/ProgrammerHumor/comments/1sc0mme/whatisthename/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/4x0gx64ynusg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/qic6mpa2z3tg1.jpeg)
 <!-- END_MEME -->
