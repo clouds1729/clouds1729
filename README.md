@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whatIsTheName*](https://www.reddit.com/r/ProgrammerHumor/comments/1sc0mme/whatisthename/)
+[*thanosAltman*](https://www.reddit.com/r/ProgrammerHumor/comments/1scdna4/thanosaltman/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qic6mpa2z3tg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/xg7nwz3f97tg1.png)
 <!-- END_MEME -->
