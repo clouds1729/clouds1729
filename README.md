@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*thatWasExpected*](https://www.reddit.com/r/ProgrammerHumor/comments/1sdfffq/thatwasexpected/)
+[*weGotOptions*](https://www.reddit.com/r/ProgrammerHumor/comments/1sengdj/wegotoptions/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/qse6gsnyuftg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/et4uf5k2jptg1.jpeg)
 <!-- END_MEME -->
