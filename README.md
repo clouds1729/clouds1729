@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*moveFastBreakMain*](https://www.reddit.com/r/ProgrammerHumor/comments/1sf3tx6/movefastbreakmain/)
+[*grokExplainYourself*](https://www.reddit.com/r/ProgrammerHumor/comments/1sfxaaz/grokexplainyourself/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/j7hz95pa6ttg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/b9cwa0leqztg1.png)
 <!-- END_MEME -->
