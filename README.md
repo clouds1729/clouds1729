@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*grokExplainYourself*](https://www.reddit.com/r/ProgrammerHumor/comments/1sfxaaz/grokexplainyourself/)
+[*helloWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1shfbjr/helloworld/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/b9cwa0leqztg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/f3922pr2cbug1.jpeg)
 <!-- END_MEME -->
