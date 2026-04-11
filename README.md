@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*helloWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1shfbjr/helloworld/)
+[*howItsSupposedToRun*](https://www.reddit.com/r/ProgrammerHumor/comments/1si2ehr/howitssupposedtorun/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/f3922pr2cbug1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/xc7ghs6w3gug1.png)
 <!-- END_MEME -->
