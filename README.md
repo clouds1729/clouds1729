@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*howItsSupposedToRun*](https://www.reddit.com/r/ProgrammerHumor/comments/1si2ehr/howitssupposedtorun/)
+[*absolutelyRidiculous*](https://www.reddit.com/r/ProgrammerHumor/comments/1sirb6i/absolutelyridiculous/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/xc7ghs6w3gug1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/lobds1q1xlug1.jpeg)
 <!-- END_MEME -->
