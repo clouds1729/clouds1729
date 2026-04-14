@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*importantWork*](https://www.reddit.com/r/ProgrammerHumor/comments/1sk0a4w/importantwork/)
+[*imagineThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1skzo0o/imaginethis/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/5vetga3cvvug1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vd4gaybwe3vg1.jpeg)
 <!-- END_MEME -->
