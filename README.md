@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*imagineThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1skzo0o/imaginethis/)
+[*beautyIsTheStandard*](https://www.reddit.com/r/ProgrammerHumor/comments/1slbf1x/beautyisthestandard/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vd4gaybwe3vg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/6dzngfcw86vg1.jpeg)
 <!-- END_MEME -->
