@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*securityAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1smx4ut/securityasaservice/)
+[*sucksBeingTheManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1snccao/sucksbeingthemanager/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/l4crci6afivg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/my0czfgeklvg1.jpeg)
 <!-- END_MEME -->
