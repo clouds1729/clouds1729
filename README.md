@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*sucksBeingTheManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1snccao/sucksbeingthemanager/)
+[*someThingsNeverChange*](https://www.reddit.com/r/ProgrammerHumor/comments/1so6mrk/somethingsneverchange/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/my0czfgeklvg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/vuf44pk86svg1.png)
 <!-- END_MEME -->
