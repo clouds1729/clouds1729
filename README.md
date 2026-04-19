@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*someThingsNeverChange*](https://www.reddit.com/r/ProgrammerHumor/comments/1so6mrk/somethingsneverchange/)
+[*theFutureOfCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1splg36/thefutureofcoding/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vuf44pk86svg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/ic7nez1gf3wg1.jpeg)
 <!-- END_MEME -->
