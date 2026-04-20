@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*theFutureOfCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1splg36/thefutureofcoding/)
+[*yourAiToolsBoreMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1sq52s0/youraitoolsboreme/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/ic7nez1gf3wg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/mbvzgpvzo7wg1.gif)
 <!-- END_MEME -->
