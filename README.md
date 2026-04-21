@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*yourAiToolsBoreMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1sq52s0/youraitoolsboreme/)
+[*touchStripFingerMount*](https://www.reddit.com/r/ProgrammerHumor/comments/1srbryz/touchstripfingermount/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/mbvzgpvzo7wg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/yyvft2w2ngwg1.jpeg)
 <!-- END_MEME -->
