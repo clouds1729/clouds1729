@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*touchStripFingerMount*](https://www.reddit.com/r/ProgrammerHumor/comments/1srbryz/touchstripfingermount/)
+[*youreNotLinus*](https://www.reddit.com/r/ProgrammerHumor/comments/1ss45yo/yourenotlinus/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/yyvft2w2ngwg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/x02lhzx9mmwg1.png)
 <!-- END_MEME -->
