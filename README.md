@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*youreNotLinus*](https://www.reddit.com/r/ProgrammerHumor/comments/1ss45yo/yourenotlinus/)
+[*mediaQueriesGoBooom*](https://www.reddit.com/r/ProgrammerHumor/comments/1st9zke/mediaqueriesgobooom/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/x02lhzx9mmwg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/obsd3jq1pvwg1.jpeg)
 <!-- END_MEME -->
