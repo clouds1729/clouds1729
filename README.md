@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*mediaQueriesGoBooom*](https://www.reddit.com/r/ProgrammerHumor/comments/1st9zke/mediaqueriesgobooom/)
+[*iWasVeryFocused*](https://www.reddit.com/r/ProgrammerHumor/comments/1stm0bw/iwasveryfocused/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/obsd3jq1pvwg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/g16a656bkywg1.png)
 <!-- END_MEME -->
