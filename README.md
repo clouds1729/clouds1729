@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*iWasVeryFocused*](https://www.reddit.com/r/ProgrammerHumor/comments/1stm0bw/iwasveryfocused/)
+[*ohNoTheConsequencesOfMyActions*](https://www.reddit.com/r/ProgrammerHumor/comments/1supaix/ohnotheconsequencesofmyactions/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/g16a656bkywg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/i5mtbbe7u6xg1.png)
 <!-- END_MEME -->
