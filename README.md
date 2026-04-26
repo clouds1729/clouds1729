@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*ohNoTheConsequencesOfMyActions*](https://www.reddit.com/r/ProgrammerHumor/comments/1supaix/ohnotheconsequencesofmyactions/)
+[*lookTheyAreDiscoveringEmplyees*](https://www.reddit.com/r/ProgrammerHumor/comments/1svnega/looktheyarediscoveringemplyees/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/i5mtbbe7u6xg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/eml24frueexg1.jpeg)
 <!-- END_MEME -->
