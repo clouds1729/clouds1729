@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*vibecoderAskedForLastMinuteInterviewTips*](https://www.reddit.com/r/ProgrammerHumor/comments/1swxpct/vibecoderaskedforlastminuteinterviewtips/)
+[*keepCompetitorsOnToes*](https://www.reddit.com/r/ProgrammerHumor/comments/1sxarww/keepcompetitorsontoes/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/hiqzocjx1pxg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/2fyxedudrrxg1.png)
 <!-- END_MEME -->
