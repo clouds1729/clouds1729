@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*greatQuestionYesLooksLikeYoureCooked*](https://www.reddit.com/r/ProgrammerHumor/comments/1sy5sx8/greatquestionyeslookslikeyourecooked/)
+[*yea*](https://www.reddit.com/r/ProgrammerHumor/comments/1sz9a09/yea/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/vzjzn4nnfyxg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/6hcwqa7tm6yg1.jpeg)
 <!-- END_MEME -->
