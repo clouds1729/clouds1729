@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*whenItsJustTheSecondWeekOfTheMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1szyrcl/whenitsjustthesecondweekofthemonth/)
+[*gotMeThinking*](https://www.reddit.com/r/ProgrammerHumor/comments/1t1av8c/gotmethinking/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/hv5m241gfcyg1.gif)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/n11zfiy2dmyg1.jpeg)
 <!-- END_MEME -->
