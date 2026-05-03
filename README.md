@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*gotMeThinking*](https://www.reddit.com/r/ProgrammerHumor/comments/1t1av8c/gotmethinking/)
+[*godIsABadProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2gpfc/godisabadprogrammer/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/n11zfiy2dmyg1.jpeg)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/thju6ryu4wyg1.png)
 <!-- END_MEME -->
