@@ -28,7 +28,7 @@ Want to know more about me? **[Check out my website](https://portfolio-nine-alph
 <!-- START_MEME -->
 The top voted meme for today is...
 
-[*godIsABadProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2gpfc/godisabadprogrammer/)
+[*newMicrosoftUpdateNotepadIsCrippled*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2yj88/newmicrosoftupdatenotepadiscrippled/)
 
-![ProgrammerHumor Meme of the Day](https://i.redd.it/thju6ryu4wyg1.png)
+![ProgrammerHumor Meme of the Day](https://i.redd.it/gecr01wpszyg1.png)
 <!-- END_MEME -->
