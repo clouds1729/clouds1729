@@ -13,22 +13,12 @@
   </a>
 </div>
 
-Hey there 👋
+Hi
 
-I’m **George** — a CS/Math student and software Developer.
+I’m **George**, a CS/Math student and software Developer.
 
-Want to know more about me? **[Check out my website](https://portfolio-nine-alpha-ssf71dz2mg.vercel.app/)** (projects, notes, and write-ups).
+Want to know more about me? **[Check out my website](https://portfolio-nine-alpha-ssf71dz2mg.vercel.app/)**.
 
 <hr/>
 
-**👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?**
 
-*This section auto-updates daily with the top-voted meme. I’m not responsible for the content.*
-
-<!-- START_MEME -->
-The top voted meme for today is...
-
-[*dataObviously*](https://www.reddit.com/r/ProgrammerHumor/comments/1t56job/dataobviously/)
-
-![ProgrammerHumor Meme of the Day](https://i.redd.it/6x7f6wsb6hzg1.jpeg)
-<!-- END_MEME -->
