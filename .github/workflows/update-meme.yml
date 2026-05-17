@@ -2,8 +2,6 @@ name: Update meme in README
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 13 * * *"  # 13:00 UTC daily (09:00 New York)
 
 permissions:
   contents: write
